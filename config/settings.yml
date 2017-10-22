@@ -1,0 +1,7 @@
+plugins:
+  sms_notify_enabled:
+    default: true
+    client: true
+  sms_notify_twilio_api_key:
+    default: ""
+    client: true

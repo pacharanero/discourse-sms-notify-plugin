@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    sms_notify_enabled: "Enable SMS notifications for a Category"
+    sms_notify_twilio_api_key: "API key for Twilio SMS gateway"
